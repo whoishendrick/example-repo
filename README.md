@@ -2,4 +2,4 @@
 
 test sample of a repository
 
-git status - check the status of file in the repository
+Getting Started with Git
